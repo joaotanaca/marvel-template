@@ -8,5 +8,10 @@ export default createGlobalStyle`
     body{
         background-color:#f4f8fb;
         font-family: 'Roboto', sans-serif;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: normal;
+        letter-spacing: normal;
     }
 `;

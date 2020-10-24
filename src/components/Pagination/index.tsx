@@ -16,7 +16,7 @@ const Pagination = (props: {
       >
         <MdChevronLeft />
       </ButtonNext>
-      <InputContainer value={props.pageProps.page} type="number" />
+      <InputContainer value={props.pageProps.page + 1} type="number" />
       <div
         style={{
           fontFamily: "AmilTypeface",

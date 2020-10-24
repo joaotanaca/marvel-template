@@ -25,7 +25,7 @@ export const ButtonNext = styled.button`
 `;
 
 export const InputContainer = styled.input`
-  width: 7px;
+  width: 15px;
   height: 26px;
   border-radius: 3px;
   margin: 0 10px;

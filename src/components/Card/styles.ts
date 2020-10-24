@@ -17,10 +17,7 @@ export const CardContainer = styled.div`
 export const TitleCard = styled.h3`
   font-size: 16px;
   font-weight: 500;
-  font-stretch: normal;
-  font-style: normal;
   line-height: 1.44;
-  letter-spacing: normal;
   text-align: center;
   color: #4a4a4a;
 `;
@@ -34,9 +31,6 @@ export const ImageCard = styled.div`
 
 export const DescriptionCard = styled.p`
   font-size: 14px;
-  font-weight: normal;
-  font-stretch: normal;
-  font-style: normal;
   line-height: 1.64;
   letter-spacing: normal;
   text-align: center;
